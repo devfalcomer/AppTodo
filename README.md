@@ -10,4 +10,4 @@ https://nodejs.org/en/
 Se você está usando expo, use npx expo start, caso contrário, use npm start ou npx react-native run-android.
 
 # Instalando a pasta android no projeto
-Estiver usando expo no emulador, mas quer usar o React Native cli, apenas digite npm start, após isso é só esperar fazer a instalações necessárias.
+Estiver usando expo no emulador, mas quer usar o React Native cli, digite expo eject e espere, assim que finalizar digite npm start, após isso é só esperar fazer a instalações necessárias.
