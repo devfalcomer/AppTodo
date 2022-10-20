@@ -1,5 +1,5 @@
 # Explicando o projeto
-O projeto foi feito com o intuito de aprendizado e como desafio das aulas da Rocketseat, ainda não está totalmente completo.
+O projeto foi feito com o intuito de aprendizado e como desafio das aulas da Rocketseat, ainda não está totalmente completo. Ele consiste em criar tarefas, a funcionalidade de editar e concluidas ainda não estão funcionando corretamente.
 
 # Node
 Tenha instalado o a versão LTS do node em seu computador, após isso, vá até o projeto abra o terminal do Vscode ou qualquer outro a seu gosto e digite npm i ou install para instalar a pasta node modules
